@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">EvoLearn</string>
+    <string name="title_activity_main">Assignment List</string>
+
+    <string name="title_section1">Assignment List</string>
+    <string name="title_section2">Challenge</string>
+    <string name="title_section3">Practice</string>
+    <string name="title_section4">Account</string>
+    <string name="title_section5">Settings</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Im Useless</string>
+
+    <string name="action_night_mode">Night Mode</string>
+    <string name="checkable">Night Mode</string>
+    <string name="title_activity_account">Account</string>
+    <string name="account">Account</string>
+    <string name="studentasslist">Student Assignment List.</string>
+    <string name="student_account">Student Account page.</string>
+    <string name="teacher_account">Teacher Account page.</string>
+    <string name="change_password">Change Password</string>
+    <string name="user_name">User name: </string>
+    <string name="student_level">Student Level: </string>
+    <string name="teacher">Teacher: </string>
+    <string name="school_name">School name: </string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_view_teacher_account">Account</string>
+    <string name="title_activity_view_student_account">Account</string>
+    <string name="title_activity_my_classroom">My Classroom</string>
+    <string name="title_activity_challenge">Challenge</string>
+    <string name="title_activity_practice">Practice</string>
+    <string name="title_activity_problem_set">ProblemSetActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
